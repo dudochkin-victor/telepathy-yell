@@ -1,0 +1,5 @@
+Telepathy Yell is an experimental playground for CM base-classes and
+client-side high-level bindings for the new Call interface.
+
+Yell has no API or ABI guarantees, but will bump the soname when required. Use
+at your own risk.
